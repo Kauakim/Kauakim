@@ -24,10 +24,10 @@
 </h2>
 <h3 align="left">
   <ul>
-    <li>Portfolio:</li>
-    <li>Instagram:</li>
-    <li>LinkedIn:</li>
-    <li>Replit:</li>
+    <li>Portfolio: Avaliable soon...</li>
+    <li>LinkedIn: Kauã Ribeiro</li>
+    <li>Instagram: _kaua_rib</li>
+    <li>Replit: KauaRibeiro6</li>
   </ul>
 </h3>
 
