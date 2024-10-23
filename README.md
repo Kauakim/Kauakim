@@ -36,47 +36,49 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />  
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberrypi logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=windows" height="60" alt="windows logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />  
+  </div>
+  <img height="5" />
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberrypi logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  </div>
+  <img height="5" />
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=windows" height="60" alt="windows logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  </div>
 </div>
 
 ###
