@@ -1,7 +1,7 @@
 <h2>
   Hello everyone, my name is Kauã Ribeiro (17 Yrs) and here are some facts about me:
 </h2>
-<h4 align="left"> 
+<h3 align="left"> 
   <ul>
     <li>I'm from Santa Rita do Sapucaí, a small city in southern Minas Gerais, Brazil.</li>
     <li>I'm a Telecommunications Technician, and I will soon begin my degree in Software Engineering.</li>
@@ -10,26 +10,26 @@
     <li>I strive to be a valuable contributor wherever I go, taking on leadership roles, managing projects and teams, while aiming to be innovative and creative.</li>
     <li>My next projects are related to a replica of TARS, a Cubesat and a FPV Drone.</li>
   </ul>
-</h4>
+</h3>
 
 <h2 align="left">
   One line that describes me best?
 </h2>
-<h4 align="left">
+<h3 align="left">
   Life is too short to stop doing what you love. Enjoy every moment of it.
-</h4>
+</h3>
 
 <h2 align="left">
   How to reach me?
 </h2>
-<h4 align="left">
+<h3 align="left">
   <ul>
     <li>Portfolio:</li>
     <li>Instagram:</li>
     <li>LinkedIn:</li>
     <li>Replit:</li>
   </ul>
-</h4>
+</h3>
 
 ###
 
