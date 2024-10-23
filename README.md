@@ -62,8 +62,6 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberrypi logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
 
@@ -77,6 +75,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
 </div>
 
 ###
