@@ -5,7 +5,7 @@
   <ul>
     <li>I'm from Santa Rita do Sapucaí, a small city in southern Minas Gerais, Brazil.</li>
     <li>I'm a Telecommunications Technician, and I will soon begin my degree in Software Engineering.</li>
-    <li>I love coding, especially in areas like AI, IoT, Cybersecurity Tools, and Web Development.</li>
+    <li>I love coding, especially in areas like AI, IoT, Automation, Cybersecurity Tools and Web Development.</li>
     <li>You'll never find me idle — I'm always working on projects or taking courses.</li>
     <li>I strive to be a valuable contributor wherever I go, taking on leadership roles, managing projects and teams, while aiming to be innovative and creative.</li>
     <li>My next projects are related to a replica of TARS, a Cubesat and a FPV Drone.</li>
@@ -28,6 +28,7 @@
     <li>LinkedIn: Kauã Ribeiro</li>
     <li>Instagram: _kaua_rib</li>
     <li>Replit: KauaRibeiro6</li>
+    <li>Email: kauasantarita@gmail.com</li>
   </ul>
 </h3>
 
@@ -92,5 +93,5 @@
 ###
 
 <h2 align="center">
-  Open to collaborating on interesting projects! :)
+  Thank you for visiting my profile! If you have any question, or want to collaborate on some interesting projects, feel free to contact me.
 </h2>
