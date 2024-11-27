@@ -1,5 +1,5 @@
 <h2>
-  👋 Hello everyone, my name is Kauã Ribeiro (17 Yrs) and here are some facts about me:
+  👋 Hello everyone, my name is Kauã Ribeiro (18 Yrs) and here are some facts about me:
 </h2>
 <h3 align="left"> 
   <ul>
@@ -24,11 +24,11 @@
 </h2>
 <h3 align="left">
   <ul>
-    <li>Portfolio: Avaliable soon...</li>
     <li>LinkedIn: Kauã Ribeiro</li>
     <li>Instagram: _kaua_rib</li>
     <li>Replit: KauaRibeiro6</li>
     <li>Email: kauasantarita@gmail.com</li>
+    <li>Portfolio: Avaliable soon...</li>
   </ul>
 </h3>
 
