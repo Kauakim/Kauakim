@@ -4,11 +4,11 @@
 <h3 align="left"> 
   <ul>
     <li>🌎 I'm from Santa Rita do Sapucaí, a small city in southern Minas Gerais, Brazil.</li>
-    <li>🛰️ I'm a Telecommunications Technician, and I will soon begin my degree in Software Engineering.</li>
+    <li>🛰️ I'm a Telecommunications Technician and Software Engineering student at INATEL.</li>
     <li>💻 I love coding, especially in areas like AI, IoT, Automation, Cybersecurity and Web Development.</li>
     <li>📚 You'll never find me idle — I'm always working on projects or taking courses.</li>
     <li>⛰️ I strive to be a valuable contributor wherever I go, taking on leadership roles, managing projects and teams, while aiming to be innovative and creative.</li>
-    <li>📈 My next projects are related to a replica of TARS, a Cubesat and a FPV Drone.</li>
+    <li>📈 My next projects are related to a replica of TARS, a replica of Flipper Zero, a Cubesat and a FPV Drone.</li>
   </ul>
 </h3>
 
@@ -47,6 +47,8 @@
     <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
     <img width="15" />
     <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+    <img width="15" />
+    <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
     <img width="15" />
     <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />  
   </div>
