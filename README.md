@@ -8,7 +8,7 @@
     <li>💻 I love coding, especially in areas like AI, IoT, Automation, Cybersecurity and Web Development.</li>
     <li>📚 You'll never find me idle — I'm always working on projects or taking courses.</li>
     <li>⛰️ I strive to be a valuable contributor wherever I go, taking on leadership roles, managing projects and teams, while aiming to be innovative and creative.</li>
-    <li>📈 My next projects are related to a replica of TARS, a replica of Flipper Zero, a Cubesat and a FPV Drone.</li>
+    <li>📈 My next projects are related to a replica of TARS and J.A.R.V.I.S., a replica of Flipper Zero and a Cubesat</li>
   </ul>
 </h3>
 
