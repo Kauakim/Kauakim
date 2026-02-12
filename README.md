@@ -85,14 +85,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kauakim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true&order=2" height="300" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="center">
   🚀 Thank you for visiting my profile! If you have any question, or want to collaborate on some interesting projects, feel free to contact me. 
 </h2>
