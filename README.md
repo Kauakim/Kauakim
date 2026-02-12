@@ -27,7 +27,7 @@
     <li>Instagram: _kaua_rib</li>
     <li>Replit: KauaRibeiro6</li>
     <li>Email: kauasantarita@gmail.com</li>
-    <li>Portfolio: Avaliable soon...</li>
+    <li>Portfolio: <a href="https://kauakim.github.io/Portfolio-KauaRibeiro/"> Link do Portfolio</a></li>
   </ul>
 </h3>
 
