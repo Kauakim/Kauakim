@@ -23,10 +23,10 @@
 </h2>
 <h3 align="left">
   <ul>
-    <li>LinkedIn: Kauã Ribeiro</li>
-    <li>Instagram: _kaua_rib</li>
-    <li>Replit: KauaRibeiro6</li>
-    <li>Email: kauasantarita@gmail.com</li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/kaua-ribeiro17/"> Kauã Ribeiro</li>
+    <li>Instagram: <a href="https://www.instagram.com/_kaua_rib/"> _kaua_rib</li>
+    <li>Replit: <a href="https://replit.com/@KauaRibeiro6"> KauaRibeiro6</li>
+    <li>Email: <a href="mailto:kauasantarita@gmail.com"> kauasantarita@gmail.com</li>
     <li>Portfolio: <a href="https://kauakim.github.io/Portfolio-KauaRibeiro/"> Link do Portfolio</a></li>
   </ul>
 </h3>
