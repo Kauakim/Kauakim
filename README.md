@@ -12,13 +12,6 @@
 </h3>
 
 <h2 align="left">
-  One line that describes me best?
-</h2>
-<h3 align="left">
-  Life is too short to stop doing what you love. Enjoy every moment of it.
-</h3>
-
-<h2 align="left">
   How to reach me?
 </h2>
 <h3 align="left">
@@ -27,7 +20,7 @@
     <li>Instagram: <a href="https://www.instagram.com/_kaua_rib/"> _kaua_rib</li>
     <li>Replit: <a href="https://replit.com/@KauaRibeiro6"> KauaRibeiro6</li>
     <li>Email: <a href="https://mailto:kauasantarita@gmail.com"> kauasantarita@gmail.com</li>
-    <li>Portfolio: <a href="https://kauakim.github.io/Portfolio-KauaRibeiro/" target="_blank" rel="noopener noreferrer"> Link do Portfolio</a></li>
+    <li>Portfolio: <a href="https://kauakim.github.io/Portfolio-KauaRibeiro/" target="_blank" rel="noopener noreferrer"> Portfolio</a></li>
   </ul>
 </h3>
 
